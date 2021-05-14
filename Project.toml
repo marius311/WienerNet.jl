@@ -1,0 +1,9 @@
+[deps]
+Adapt = "79e6a3ab-5dfb-504d-930d-738a2a938a0e"
+CMBLensing = "b60c06c0-7e54-11e8-3788-4bd722d65317"
+CUDA = "052768ef-5323-5732-b1bb-66c8b64840ba"
+Flux = "587475ba-b771-5e3f-ad9e-33799f191a9c"
+ProgressMeter = "92933f4c-e287-5a05-a399-4b506db050ca"
+PyCall = "438e738f-606a-5dbb-bf0a-cddfbfd45ab0"
+PyPlot = "d330b81b-6aea-500a-939a-2ce795aea3ee"
+Setfield = "efcf1570-3423-57d1-acb7-fd33fddbac46"
