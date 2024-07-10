@@ -13,7 +13,11 @@ either nothing (for the deepest layer) or another instance of itself as an input
 stacked recursively. Finally, a single instance of WienerNetIO serves as the input/output layer. 
 
 This repository consists of several notebooks:
+
 wienercode.ipynb contains module definitions
+
 wienernet.ipynb contains an example instance of a full WienerNet
+
 wienertrain.ipynb handles training
+
 wienerplot.ipynb plots several examples 
